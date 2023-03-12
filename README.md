@@ -1,5 +1,7 @@
 # Here in this model I have used random forest and decision tree algorithm for finding out fraud happens in transactions and I got 99.97% accuracy
 
+You can get dataset from https://www.kaggle.com/datasets/chitwanmanchanda/fraudulent-transactions-data
+
 What are the key factors that predict fraudulent customer?
 1. The source of request is secured or not ?
 2. Is the name of organisation asking for money is legit or not ?
